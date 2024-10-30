@@ -36,13 +36,13 @@
     <img src="https://hoplix-blog.s3.eu-west-1.amazonaws.com/wp-content/uploads/2021/09/16163957/tik-tok-ads.jpg" alt="TikTok Ads" width="40" height="40"/>
 </a>
 <a href="https://supermetrics.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.supermetrics.com/wp-content/uploads/2022/09/cropped-favicon-192x192.png" alt="Supermetrics" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjcEr5Iae_YEPfc632HtODUk-6nvrNhTzwCw&s" alt="Supermetrics" width="40" height="40"/>
 </a>
 <a href="https://search.google.com/search-console" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_search_console/google_search_console-icon.svg" alt="Google Search Console" width="40" height="40"/>
+    <img src="https://res.cloudinary.com/apideck/image/upload/v1582634841/catalog/google-search-console/icon128x128.png" alt="Google Search Console" width="40" height="40"/>
 </a>
 <a href="https://datastudio.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_datastudio/google_datastudio-icon.svg" alt="Data Studio" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFH9bPZhGNXjECI-ZvuJeFS75bnlKtA5bxNQ&s" alt="Data Studio" width="40" height="40"/>
 </a>
 <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="40" height="40"/>
