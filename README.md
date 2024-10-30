@@ -30,7 +30,7 @@
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Meta Ads" width="40" height="40"/>
 </a>
 <a href="https://www.adjust.com/" target="_blank" rel="noreferrer">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7xFUtEuyu7sNMrvPKj5QGy3zgrxHwWH3_PIJeuNdODie7j_mrHVe8qxZoBDwGBrz9Ng&usqp=CAU" alt="Adjust" width="40" height="40"/>
+    <img src="https://media.licdn.com/dms/image/v2/C4E0BAQHPBTQl1rnjfA/company-logo_200_200/company-logo_200_200/0/1630616371756/adjustcom_logo?e=2147483647&v=beta&t=gOhEnvK4ccWdKfFjjqe4UIVTQW-wdvaNctgoBAEEhQY" alt="Adjust" width="40" height="40"/>
 </a>
 <a href="https://ads.tiktok.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tiktok/tiktok-icon.svg" alt="TikTok Ads" width="40" height="40"/>
