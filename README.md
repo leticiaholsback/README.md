@@ -23,18 +23,31 @@
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> 
-  <a href="https://[https://ads.google.com]" target="_blank" rel="noreferrer"> 
-    <img src="[https://cdn.icon-icons.com/icons2/2699/PNG/512/google_ads_logo_icon_169088.png]" alt="googleads" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> 
-  </a> 
-  <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> 
-  </a> 
+<a href="https://ads.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_ads/google_ads-icon.svg" alt="Google Ads" width="40" height="40"/>
+</a>
+<a href="https://www.facebook.com/business/ads" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Meta Ads" width="40" height="40"/>
+</a>
+<a href="https://www.adjust.com/" target="_blank" rel="noreferrer">
+    <img src="https://uploads-ssl.webflow.com/5ee75830a87f64593ae66f48/5f0d8e8d9b8e7814ac95a755_adjust-icon.svg" alt="Adjust" width="40" height="40"/>
+</a>
+<a href="https://ads.tiktok.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tiktok/tiktok-icon.svg" alt="TikTok Ads" width="40" height="40"/>
+</a>
+<a href="https://supermetrics.com/" target="_blank" rel="noreferrer">
+    <img src="https://uploads-ssl.webflow.com/5e8e957d10b0e41c1d9c2737/5f5a89d16959e8fe3761bb2e_supermetrics-iso.svg" alt="Supermetrics" width="40" height="40"/>
+</a>
+<a href="https://search.google.com/search-console" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_search_console/google_search_console-icon.svg" alt="Google Search Console" width="40" height="40"/>
+</a>
+<a href="https://datastudio.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_datastudio/google_datastudio-icon.svg" alt="Data Studio" width="40" height="40"/>
+</a>
+<a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="40" height="40"/>
+</a>
+  
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
   </a> 
