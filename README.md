@@ -30,13 +30,13 @@
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Meta Ads" width="40" height="40"/>
 </a>
 <a href="https://www.adjust.com/" target="_blank" rel="noreferrer">
-    <img src="https://uploads-ssl.webflow.com/5ee75830a87f64593ae66f48/5f0d8e8d9b8e7814ac95a755_adjust-icon.svg" alt="Adjust" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/A/adjust-logo-402EE85A8D-seeklogo.com.png" alt="Adjust" width="40" height="40"/>
 </a>
 <a href="https://ads.tiktok.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tiktok/tiktok-icon.svg" alt="TikTok Ads" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/T/tiktok-logo-B32227BEEF-seeklogo.com.png" alt="TikTok Ads" width="40" height="40"/>
 </a>
 <a href="https://supermetrics.com/" target="_blank" rel="noreferrer">
-    <img src="https://uploads-ssl.webflow.com/5e8e957d10b0e41c1d9c2737/5f5a89d16959e8fe3761bb2e_supermetrics-iso.svg" alt="Supermetrics" width="40" height="40"/>
+    <img src="https://uploads-ssl.webflow.com/5e8e957d10b0e41c1d9c2737/5f4e6bd5a16a69c9e228b0b6_supermetrics-logo-red.png" alt="Supermetrics" width="40" height="40"/>
 </a>
 <a href="https://search.google.com/search-console" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_search_console/google_search_console-icon.svg" alt="Google Search Console" width="40" height="40"/>
@@ -47,7 +47,6 @@
 <a href="https://cloud.google.com/bigquery" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="BigQuery" width="40" height="40"/>
 </a>
-  
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
   </a> 
