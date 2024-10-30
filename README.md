@@ -33,7 +33,7 @@
     <img src="https://media.licdn.com/dms/image/v2/C4E0BAQHPBTQl1rnjfA/company-logo_200_200/company-logo_200_200/0/1630616371756/adjustcom_logo?e=2147483647&v=beta&t=gOhEnvK4ccWdKfFjjqe4UIVTQW-wdvaNctgoBAEEhQY" alt="Adjust" width="40" height="40"/>
 </a>
 <a href="https://ads.tiktok.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tiktok/tiktok-icon.svg" alt="TikTok Ads" width="40" height="40"/>
+    <img src="https://hoplix-blog.s3.eu-west-1.amazonaws.com/wp-content/uploads/2021/09/16163957/tik-tok-ads.jpg" alt="TikTok Ads" width="40" height="40"/>
 </a>
 <a href="https://supermetrics.com/" target="_blank" rel="noreferrer">
     <img src="https://www.supermetrics.com/wp-content/uploads/2022/09/cropped-favicon-192x192.png" alt="Supermetrics" width="40" height="40"/>
