@@ -30,13 +30,13 @@
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Meta Ads" width="40" height="40"/>
 </a>
 <a href="https://www.adjust.com/" target="_blank" rel="noreferrer">
-    <img src="https://companieslogo.com/img/orig/ADJUST-dc7e88e4.png?t=1633513371" alt="Adjust" width="40" height="40"/>
+    <img src="https://companieslogo.com/img/orig/ADJUST-6d0b8bc0.png?t=1633513371" alt="Adjust" width="40" height="40"/>
 </a>
 <a href="https://ads.tiktok.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TikTok_logo.svg/120px-TikTok_logo.svg.png" alt="TikTok Ads" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tiktok/tiktok-icon.svg" alt="TikTok Ads" width="40" height="40"/>
 </a>
 <a href="https://supermetrics.com/" target="_blank" rel="noreferrer">
-    <img src="https://uploads-ssl.webflow.com/5e8e957d10b0e41c1d9c2737/5f4e6bd5a16a69c9e228b0b6_supermetrics-logo-red.png" alt="Supermetrics" width="40" height="40"/>
+    <img src="https://www.supermetrics.com/wp-content/uploads/2022/09/cropped-favicon-192x192.png" alt="Supermetrics" width="40" height="40"/>
 </a>
 <a href="https://search.google.com/search-console" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_search_console/google_search_console-icon.svg" alt="Google Search Console" width="40" height="40"/>
