@@ -30,10 +30,10 @@
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Meta Ads" width="40" height="40"/>
 </a>
 <a href="https://www.adjust.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/A/adjust-logo-402EE85A8D-seeklogo.com.png" alt="Adjust" width="40" height="40"/>
+    <img src="https://companieslogo.com/img/orig/ADJUST-dc7e88e4.png?t=1633513371" alt="Adjust" width="40" height="40"/>
 </a>
 <a href="https://ads.tiktok.com/" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/T/tiktok-logo-B32227BEEF-seeklogo.com.png" alt="TikTok Ads" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TikTok_logo.svg/120px-TikTok_logo.svg.png" alt="TikTok Ads" width="40" height="40"/>
 </a>
 <a href="https://supermetrics.com/" target="_blank" rel="noreferrer">
     <img src="https://uploads-ssl.webflow.com/5e8e957d10b0e41c1d9c2737/5f4e6bd5a16a69c9e228b0b6_supermetrics-logo-red.png" alt="Supermetrics" width="40" height="40"/>
