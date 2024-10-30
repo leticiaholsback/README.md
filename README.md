@@ -23,8 +23,8 @@
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  <a href="https://[https://ads.google.com]" target="_blank" rel="noreferrer"> 
+    <img src="[https://cdn.icon-icons.com/icons2/2699/PNG/512/google_ads_logo_icon_169088.png]" alt="googleads" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
